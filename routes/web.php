@@ -11,14 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+Route::get('/', 'MainController@home');
 
-Route::get('/about',function(){
-    return view('about');
-});
+Route::get('/about', 'MainController@about' );
 
-Route::get('/user/{id}/{name}',function($id,$name){
-    return 'ID: '.$id.' Name: '.$name;
-});
+Route::get('/review','MainController@review');
+
+
+//Route::get('/user/{id}/{name}', function ($id, $name) {
+//   return 'ID: ' . $id . ' Name: ' . $name;
+//});

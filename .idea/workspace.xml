@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e437452c-6de9-4dec-a3ed-95bc2065bfd7" name="Default Changelist" comment="Add Main controller, changed about.blade.php and home.blade.php , add layout.blade.php and add section review.blade.php">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MainController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/review.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/review.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="e437452c-6de9-4dec-a3ed-95bc2065bfd7" name="Default Changelist" comment="add validation to feedback form" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +149,7 @@
       <workItem from="1621530427091" duration="236000" />
       <workItem from="1621530667568" duration="158000" />
       <workItem from="1621533534523" duration="318000" />
-      <workItem from="1621609325145" duration="1652000" />
+      <workItem from="1621609325145" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main controller, changed about.blade.php and home.blade.php , add layout.blade.php and add section review.blade.php">
       <created>1621530650342</created>
@@ -170,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621533605816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add validation to feedback form">
+      <created>1621611453616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621611453616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +193,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add Main controller, changed about.blade.php and home.blade.php , add layout.blade.php and add section review.blade.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Main controller, changed about.blade.php and home.blade.php , add layout.blade.php and add section review.blade.php" />
+    <MESSAGE value="add validation to feedback form" />
+    <option name="LAST_COMMIT_MESSAGE" value="add validation to feedback form" />
   </component>
 </project>
